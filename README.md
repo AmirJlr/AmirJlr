@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web scraping
 - 💞️ I’m looking to collaborate on internship opportunities and data analyze project 
 - 📫 How to reach me :
-- twitter :amir_jlr
+
 - tel : amir_jlrb
 
 <!---
