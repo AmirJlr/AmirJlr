@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirmmt
 - 👀 I’m interested in football analysis, python, data science and django
 - 🌱 I’m currently learning web scraping
-- 💞️ I’m looking to collaborate on internship opportunities and data analyze project 
+- 💞️ I’m looking to collaborate on internship opportunities and data analyze projects
 - 📫 How to reach me :
 
 - mail : amirmmt1379@gmail.com
