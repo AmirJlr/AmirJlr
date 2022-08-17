@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on internship opportunities and data analyze project 
 - 📫 How to reach me :
 
-- tel : amir_jlrb
-
+- mail : amirmmt1379@gmail.com
 <!---
 amirmmt/amirmmt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
