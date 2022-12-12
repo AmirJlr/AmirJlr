@@ -4,7 +4,7 @@
 
 
 <div id="badges" align="center">
-  <a href="amirmmt1379@gmail.com">
+  <a href="/amirmmt1379@gmail.com">
     <img src="https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://t.me/iamirj">
