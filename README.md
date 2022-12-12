@@ -1,3 +1,12 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="100"/>
+</div>
+
+
+
+
+
+
 - 👋 Hi, I’m @amirmmt
 - 👀 I’m interested in football analysis, python, data science and django
 - 🌱 I’m currently learning Football Data Science
