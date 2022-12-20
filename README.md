@@ -75,7 +75,12 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-<!---
-amirmmt/amirmmt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🤝🏻 &nbsp;Connect with Me
+  
+<p align="center">
+
+
+<a href="mailto:amirmmt1379@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-soroush8fathi@gmail-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/iamirj/" target="_blank"><img src="https://img.shields.io/badge/-soroush_fathi-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
+
+
