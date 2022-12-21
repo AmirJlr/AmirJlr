@@ -73,6 +73,8 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <img src="https://github-profile-trophy.vercel.app/?username=amirjlr&margin-w=10&no-frame=true&row=1&theme=radical"/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amirjlr)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
