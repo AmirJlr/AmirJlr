@@ -1,4 +1,4 @@
-<div size='20px'> My name is Amir. Thanks for taking the time to view my GitHub Profile. </div>
+<div><h1> My name is Amir. Thanks for taking the time to view my GitHub Profile. </h1></div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
