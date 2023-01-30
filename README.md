@@ -31,8 +31,9 @@
 
 
 ### :man_technologist: About Me :
-I'm a Python Developer (Django, Machine Learning, Deep Learning) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
+<h3>Master Student Data Science</h3>
+<h3>Python Developer (Django, Machine Learning, Deep Learning) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+</h3>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
