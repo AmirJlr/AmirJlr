@@ -71,25 +71,12 @@
 ---
 
 ### :fire: My Stats :
-[![Amir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amirjlr&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Amir's github stats](https://github-readme-stats.vercel.app/api?username=amirjlr&show_icons=true&theme=tokyonight) | ![Amir GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirjlr&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirjlr&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=amirjlr&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-[![Amir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amirjlr)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
----
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirjlr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aliakbar Github Stats">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirJlr&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirJlr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://github-profile-trophy.vercel.app/?username=amirjlr&margin-w=10&no-frame=true&row=1&theme=radical"/>
-
-
 [![Amir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amirjlr)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
