@@ -4,12 +4,12 @@
 </h1>
 
 
-
+<!-- 
 <div id="header" align="center">
   <h2> My name is Amir. Thanks for taking the time to view my GitHub Profile. </h2>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+ -->
 
 <div id="badges" align="center">
   <a href="mailto:amirmmt1379@gmail.com">
