@@ -54,11 +54,11 @@
 | ![Amir's github stats](https://github-readme-stats.vercel.app/api?username=amirjlr&show_icons=true&theme=tokyonight) | ![Amir GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirjlr&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirjlr&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=amirjlr&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
+<!-- 
 <img src="https://github-profile-trophy.vercel.app/?username=amirjlr&margin-w=10&no-frame=true&row=1&theme=radical"/>
 
 
-[![Amir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amirjlr)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Amir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amirjlr)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ---
 
