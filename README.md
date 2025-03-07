@@ -32,7 +32,7 @@
 
 ### About Me :
 <h3>:man_student: Master Student Data Science</h3>
-<h3>:man_technologist: Python Developer (Data Engineer, Machine Learning, Deep Learning) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<h3>:man_technologist: Python Developer (Data Engineer, Machine Learning, Deep Learning).
 </h3>
 <!-- <h3>:heavy_heart_exclamation: Interested in Football Data Analysis :soccer: </h3> -->
 ---
