@@ -32,7 +32,7 @@
 
 ### About Me :
 <h3>:man_student: M.SC Data Science</h3>
-<h3>:man_technologist: Python Developer (Data Engineer, Machine Learning, Deep Learning).
+<h3>:man_technologist: Python Developer (ML Engineer, Machine Learning, Deep Learning).
 </h3>
 <!-- <h3>:heavy_heart_exclamation: Interested in Football Data Analysis :soccer: </h3> -->
 ---
